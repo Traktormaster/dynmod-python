@@ -1,0 +1,12 @@
+
+.eggs/*
+build/*
+dist/*
+/.idea/*
+!/.idea/runConfigurations
+.pytest_cache/*
+.mypy_cache/*
+.coverage
+__pycache__
+*.pyc
+*.egg-info
